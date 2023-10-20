@@ -1,4 +1,6 @@
+/*
 package proyecto;
+
 
 import javax.swing.*;
 
@@ -13,9 +15,10 @@ public class ClassMain{
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         while(true){
-            game.moveBall();
+            //game.moveBall();
             game.repaint();
             Thread.sleep(10);
         }
     }
 }
+*/
